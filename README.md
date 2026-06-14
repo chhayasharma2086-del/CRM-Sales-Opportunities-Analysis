@@ -123,6 +123,3 @@ Chhaya Sharma
 
 Data Analyst | SQL | Power BI | Tableau | Python
 
-LinkedIn: https://www.linkedin.com/in/da-chhaya-sharma/
-
-GitHub: https://github.com/chhayasharma2086-del
